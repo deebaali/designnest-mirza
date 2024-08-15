@@ -1,0 +1,2043 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <!-- Mirrored from demosites.royal-elementor-addons.com/realestate-v3/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Aug 2024 12:58:58 GMT --><!-- Added by HTTrack -->
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <!-- /Added by HTTrack -->
+    <title>Real Estate</title>
+    <meta name="robots" content="max-image-preview:large">
+    <link rel="alternate" type="application/rss+xml" title="Real Estate » Feed"
+
+      href="feed/index.html">
+    <link rel="alternate" type="application/rss+xml" title="Real Estate » Comments Feed"
+
+      href="comments/feed/index.html">
+    <script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script> <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> <style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style> <style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style> <link rel="stylesheet" id="elementor-icons-css" href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-frontend-css" href="wp-content/uploads/sites/90/elementor/css/custom-frontend-lite.mina8dc.css?ver=1710926825"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="swiper-css" href="wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-4-css" href="wp-content/uploads/sites/90/elementor/css/post-4a8dc.css?ver=1710926825"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-global-css" href="wp-content/uploads/sites/90/elementor/css/globaldfd8.css?ver=1710926826"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-6-css" href="wp-content/uploads/sites/90/elementor/css/post-6c91b.css?ver=1710927338"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-337-css" href="wp-content/uploads/sites/90/elementor/css/post-337dfd8.css?ver=1710926826"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-328-css" href="wp-content/uploads/sites/90/elementor/css/post-328dfd8.css?ver=1710926826"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="royal-elementor-kit-style-css" href="wp-content/themes/royal-elementor-kit/style5152.css?ver=1.0"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-text-animations-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-addons-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/frontend.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="font-awesome-5-all-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/all.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.1"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-icons-shared-0-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-icons-fa-brands-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3"
+
+      type="text/css" media="all">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <script type="text/javascript" data-cfasync="false" src="wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0"
+
+id="jquery-core-js"></script>
+    <script type="text/javascript" data-cfasync="false" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
+
+id="jquery-migrate-js"></script>
+    <link rel="https://api.w.org/" href="wp-json/index.html">
+    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/6.json">
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd">
+    <meta name="generator" content="WordPress 6.3.1">
+    <link rel="canonical" href="index.html">
+    <link rel="shortlink" href="index.html">
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed6fd4.json?url=https%3A%2F%2Fdemosites.royal-elementor-addons.com%2Frealestate-v3%2F">
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed2217?url=https%3A%2F%2Fdemosites.royal-elementor-addons.com%2Frealestate-v3%2F&amp;format=xml">
+    <!-- start Simple Custom CSS and JS -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-197819025-1"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197819025-1');
+</script><!-- end Simple Custom CSS and JS -->
+    <meta name="generator" content="Elementor 3.20.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    <style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  </head>
+  <body class="home page-template page-template-elementor_canvas page page-id-6 wp-embed-responsive elementor-default elementor-template-canvas elementor-kit-4 elementor-page elementor-page-6">
+    <div data-elementor-type="wp-post" data-elementor-id="337" class="elementor elementor-337">
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-8a5359a elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="8a5359a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-170fb7d"
+
+            data-id="170fb7d" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-13db271 wpr-logo-position-center elementor-widget elementor-widget-wpr-logo"
+
+                data-id="13db271" data-element_type="widget" data-widget_type="wpr-logo.default">
+                <div class="elementor-widget-container">
+                  <div class="wpr-logo elementor-clearfix"> <picture class="wpr-logo-image">
+                      <source srcset="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Logo.png 1x, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Logo-Retina.png 2x">
+                    </picture><strong><b><span style="color: #333366;">Mirza
+                          Tour and Travels</span></b></strong> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a8c5815"
+
+            data-id="a8c5815" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-80cfb45 wpr-main-menu-align-center wpr-main-menu-align--laptopcenter wpr-main-menu-align--tabletcenter wpr-pointer-line-fx wpr-pointer-fx-slide wpr-mobile-toggle-v4 wpr-main-menu-align--mobileleft wpr-pointer-underline wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-nav-menu-bp-tablet wpr-mobile-menu-display-dropdown wpr-mobile-menu-full-width wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-mega-menu"
+
+                data-id="80cfb45" data-element_type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}"
+
+                data-widget_type="wpr-mega-menu.default">
+                <div class="elementor-widget-container">
+                  <nav class="wpr-nav-menu-container wpr-mega-menu-container wpr-nav-menu-horizontal"
+
+                    data-trigger="hover">
+                    <ul id="menu-1-80cfb45" class="wpr-nav-menu wpr-mega-menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-has-children menu-item-29"><a
+
+                          href="index.html" class="wpr-menu-item wpr-pointer-item wpr-active-menu-item wpr-active-menu-item"><span>Home</span><i
+
+                            class="wpr-sub-icon fas" aria-hidden="true"></i></a>
+                        <ul class="sub-menu wpr-sub-menu">
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a
+
+                              href="home-v2/index.html" class="wpr-sub-menu-item"><span>Home
+                                w. Slider</span></a></li>
+                        </ul>
+                      </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-947"><a
+
+                          href="wpr_directory/index.html" class="wpr-menu-item wpr-pointer-item"><span>Directory</span><span
+
+                            class="wpr-mega-menu-badge" style="color: #4c4c4c;background-color: #ffbc09;border-color: #ffbc09;">CPT</span></a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a
+
+                          href="about/index.html" class="wpr-menu-item wpr-pointer-item"><span>About</span></a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a
+
+                          href="blog-realestate-v3/index.html" class="wpr-menu-item wpr-pointer-item"><span>News</span></a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a
+
+                          href="contact/index.html" class="wpr-menu-item wpr-pointer-item"><span>Contact</span></a></li>
+                    </ul>
+                  </nav>
+                  <nav class="wpr-mobile-nav-menu-container">
+                    <div class="wpr-mobile-toggle-wrap">
+                      <div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span
+
+                          class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div>
+                    </div>
+                    <div class="wpr-mobile-mega-menu-wrap wpr-anim-timing-">
+                      <ul id="mobile-menu-2-80cfb45" class="wpr-mobile-nav-menu wpr-mobile-mega-menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-has-children menu-item-29"><a
+
+                            href="index.html" class="wpr-mobile-menu-item wpr-active-menu-item wpr-active-menu-item">Home<i
+
+                              class="wpr-mobile-sub-icon"></i></a>
+                          <ul class="sub-menu wpr-mobile-sub-menu">
+                            <li class="wpr-menu-offcanvas-back-wrap">
+                              <div class="wpr-menu-offcanvas-back"><svg version="1.1"
+
+                                  xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink"
+
+                                  x="0px" y="0px" viewBox="0 0 499.6 320.6" style="enable-background:new 0 0 499.6 320.6;"
+
+                                  xml:space="preserve"><g><path class="st0" d="M499.6,159.3c0.3,7-2.4,13.2-7,17.9c-4.3,4.3-10.4,7-16.9,7H81.6l95.6,95.6c9.3,9.3,9.3,24.4,0,33.8c-4.6,4.6-10.8,7-16.9,7c-6.1,0-12.3-2.4-16.9-7L6.9,177.2c-9.3-9.3-9.3-24.4,0-33.8l16.9-16.9l0,0L143.3,6.9c9.3-9.3,24.4-9.3,33.8,0c4.6,4.6,7,10.8,7,16.9s-2.4,12.3-7,16.9l-95.6,95.6h393.7C488.3,136.3,499.1,146.4,499.6,159.3z"></path></g></svg>
+                                <h3></h3>
+                              </div>
+                              <br>
+                            </li>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a
+
+                                href="home-v2/index.html" class="wpr-mobile-sub-menu-item">Home
+                                w. Slider</a></li>
+                          </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-947"><a
+
+                            href="wpr_directory/index.html" class="wpr-mobile-menu-item">Directory<span
+
+                              class="wpr-mega-menu-badge" style="color: #4c4c4c;background-color: #ffbc09;">CPT</span></a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a
+
+                            href="about/index.html" class="wpr-mobile-menu-item">About</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a
+
+                            href="blog-realestate-v3/index.html" class="wpr-mobile-menu-item">News</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a
+
+                            href="contact/index.html" class="wpr-mobile-menu-item">Contact</a></li>
+                      </ul>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a4ee148 elementor-hidden-mobile"
+
+            data-id="a4ee148" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-7655e73 wpr-offcanvas-align-right wpr-offcanvas-entrance-animation-fade elementor-widget elementor-widget-wpr-offcanvas"
+
+                data-id="7655e73" data-element_type="widget" data-widget_type="wpr-offcanvas.default">
+                <div class="elementor-widget-container">
+                  <div class="wpr-offcanvas-container" data-offcanvas-open=""> <button
+
+                      class="wpr-offcanvas-trigger"> <span>Get a Quote</span> </button>
+                    <div class="wpr-offcanvas-wrap wpr-offcanvas-wrap-middle">
+                      <div class="wpr-offcanvas-content wpr-offcanvas-content-middle">
+                        <div class="wpr-offcanvas-header"> <span class="wpr-close-offcanvas">
+                            <i class="fa fa-times" aria-hidden="true"></i> </span>
+                        </div>
+                        <div data-elementor-type="section" data-elementor-id="478"
+
+                          class="elementor elementor-478">
+                          <section class="elementor-section elementor-top-section elementor-element elementor-element-3450cffe elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                            data-id="3450cffe" data-element_type="section">
+                            <div class="elementor-container elementor-column-gap-wide">
+                              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-141766e6"
+
+                                data-id="141766e6" data-element_type="column">
+                                <div class="elementor-widget-wrap elementor-element-populated">
+                                  <div class="elementor-element elementor-element-b6d0cd2 elementor-widget elementor-widget-heading"
+
+                                    data-id="b6d0cd2" data-element_type="widget"
+
+                                    data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                      <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+                                      <h2 class="elementor-heading-title elementor-size-default">Get
+                                        a Quote!</h2>
+                                    </div>
+                                  </div>
+                                  <div class="elementor-element elementor-element-73c78e52 wpr-step-type-number_text wpr-step-content-layout-vertical wpr-custom-styles-yes elementor-widget elementor-widget-wpr-form-builder"
+
+                                    data-id="73c78e52" data-element_type="widget"
+
+                                    data-settings="{&quot;success_message&quot;:&quot;Submission successful&quot;,&quot;error_message&quot;:&quot;Please edit this form and setup your Email&quot;,&quot;button_width&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;button_width_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;button_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;button_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_content_layout&quot;:&quot;vertical&quot;}"
+
+                                    data-widget_type="wpr-form-builder.default">
+                                    <div class="elementor-widget-container">
+                                      <form class="wpr-form" method="post" name="New Form"
+
+                                        page="Home" page_id="6" novalidate=""> <input
+
+                                          name="post_id" value="6" type="hidden">
+                                        <input name="form_id" value="73c78e52" type="hidden">
+                                        <input name="referer_title" value="" type="hidden">
+                                        <input name="queried_id" value="6" type="hidden">
+                                        <div class="wpr-step-wrap"></div>
+                                        <div class="wpr-form-fields-wrap wpr-labels-above">
+                                          <div class="wpr-form-field-type-text wpr-field-group wpr-column wpr-field-group-name elementor-repeater-item-b3a0e07">
+                                            <label for="form-field-name" class="wpr-form-field-label">
+                                              Name </label> <input size="1 " name="form_fields[name]"
+
+                                              id="form-field-name" class="wpr-form-field  wpr-form-field-textual"
+
+                                              placeholder="Name" type="text"> </div>
+                                          <div class="wpr-form-field-type-text wpr-field-group wpr-column wpr-field-group-70d5e88 elementor-repeater-item-70d5e88">
+                                            <label for="form-field-70d5e88" class="wpr-form-field-label">
+                                              Surname </label> <input size="1 "
+
+                                              name="form_fields[70d5e88]" id="form-field-70d5e88"
+
+                                              class="wpr-form-field  wpr-form-field-textual"
+
+                                              placeholder="Surname" type="text">
+                                          </div>
+                                          <div class="wpr-form-field-type-text wpr-field-group wpr-column wpr-field-group-8bb445e elementor-repeater-item-8bb445e">
+                                            <label for="form-field-8bb445e" class="wpr-form-field-label">
+                                              Company Name </label> <input size="1 "
+
+                                              name="form_fields[8bb445e]" id="form-field-8bb445e"
+
+                                              class="wpr-form-field  wpr-form-field-textual"
+
+                                              placeholder="Company Name" type="text">
+                                          </div>
+                                          <div class="wpr-form-field-type-tel wpr-field-group wpr-column wpr-field-group-53cb5d3 elementor-repeater-item-53cb5d3">
+                                            <label for="form-field-53cb5d3" class="wpr-form-field-label">
+                                              Phone Number </label> <input size="1 "
+
+                                              name="form_fields[53cb5d3]" id="form-field-53cb5d3"
+
+                                              class="wpr-form-field  wpr-form-field-textual"
+
+                                              placeholder="Phone Number" type="tel">
+                                          </div>
+                                          <div class="wpr-form-field-type-email wpr-field-group wpr-column wpr-field-group-e802095 elementor-repeater-item-e802095">
+                                            <label for="form-field-e802095" class="wpr-form-field-label">
+                                              Email </label> <input size="1 "
+
+                                              name="form_fields[e802095]" id="form-field-e802095"
+
+                                              class="wpr-form-field  wpr-form-field-textual"
+
+                                              placeholder="Email" type="email">
+                                          </div>
+                                          <div class="wpr-form-field-type-select wpr-field-group wpr-column wpr-field-group-acc14df elementor-repeater-item-acc14df">
+                                            <label for="form-field-acc14df" class="wpr-form-field-label">
+                                              Subject </label>
+                                            <div class="wpr-form-field wpr-select-wrap wpr-fi-svg-no remove-before ">
+                                              <select name="form_fields[acc14df]"
+
+                                                id="form-field-acc14df" class="wpr-form-field-textual">
+                                                <option value="Properties">
+                                                  Properties </option>
+                                                <option value="Buy"> Buy </option>
+                                                <option value="Sell"> Sell </option>
+                                                <option value="Rentals"> Rentals
+                                                </option>
+                                                <option value="Investments">
+                                                  Investments </option>
+                                                <option value="Commercial">
+                                                  Commercial </option>
+                                                <option value="Services">
+                                                  Services </option>
+                                              </select>
+                                            </div>
+                                          </div>
+                                          <div class="wpr-form-field-type-radio wpr-field-group wpr-column wpr-field-group-a3bfaeb elementor-repeater-item-a3bfaeb">
+                                            <div class="wpr-field-sub-group  wpr-inline-sub-group"><span
+
+                                                class="wpr-form-field-option" data-key="form-field-a3bfaeb"><input
+
+                                                  value="Selling" id="form-field-a3bfaeb-0"
+
+                                                  name="form_fields[a3bfaeb]" type="radio">
+                                                <label for="form-field-a3bfaeb-0">Selling</label></span><span
+
+                                                class="wpr-form-field-option" data-key="form-field-a3bfaeb"><input
+
+                                                  value="Investment" id="form-field-a3bfaeb-1"
+
+                                                  name="form_fields[a3bfaeb]" type="radio">
+                                                <label for="form-field-a3bfaeb-1">Investment</label></span><span
+
+                                                class="wpr-form-field-option" data-key="form-field-a3bfaeb"><input
+
+                                                  value="Homebuyer" id="form-field-a3bfaeb-2"
+
+                                                  name="form_fields[a3bfaeb]" type="radio">
+                                                <label for="form-field-a3bfaeb-2">Homebuyer</label></span><span
+
+                                                class="wpr-form-field-option" data-key="form-field-a3bfaeb"><input
+
+                                                  value="Strategies" id="form-field-a3bfaeb-3"
+
+                                                  name="form_fields[a3bfaeb]" type="radio">
+                                                <label for="form-field-a3bfaeb-3">Strategies</label></span><span
+
+                                                class="wpr-form-field-option" data-key="form-field-a3bfaeb"><input
+
+                                                  value="Real Estate" id="form-field-a3bfaeb-4"
+
+                                                  name="form_fields[a3bfaeb]" type="radio">
+                                                <label for="form-field-a3bfaeb-4">Real
+                                                  Estate</label></span></div>
+                                          </div>
+                                          <div class="wpr-form-field-type-textarea wpr-field-group wpr-column wpr-field-group-message elementor-repeater-item-8e22907">
+                                            <label for="form-field-message" class="wpr-form-field-label">
+                                              Message </label> <textarea class="wpr-form-field-textual wpr-form-field "
+
+name="form_fields[message]" id="form-field-message" rows="7" placeholder="Your Message"></textarea>
+                                          </div>
+                                          <div class="wpr-field-group wpr-stp-btns-wrap wpr-column wpr-form-field-type-submit"
+
+                                            data-actions="[&quot;email&quot;]" data-redirect-url=""
+
+                                            data-mailchimp-fields="{&quot;email_field&quot;:&quot;&quot;,&quot;first_name_field&quot;:&quot;&quot;,&quot;last_name_field&quot;:&quot;&quot;,&quot;address_field&quot;:&quot;&quot;,&quot;phone_field&quot;:&quot;&quot;,&quot;birthday_field&quot;:&quot;&quot;,&quot;group_id&quot;:&quot;&quot;}"
+
+                                            data-list-id=""> <button type="submit"
+
+                                              class="wpr-button"> <span> <span>Send</span>
+                                              </span>
+                                              <div class="wpr-double-bounce wpr-loader-hidden">
+                                                <div class="wpr-child wpr-double-bounce1"></div>
+                                                <div class="wpr-child wpr-double-bounce2"></div>
+                                              </div>
+                                            </button> </div>
+                                        </div>
+                                      </form>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </section>
+                        </div>
+                        <span class="wpr-template-edit-btn" data-permalink="https://demosites.royal-elementor-addons.com/realestate-v3/?elementor_library=offcanvas">Edit
+                          Template</span> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div data-elementor-type="wp-page" data-elementor-id="6" class="elementor elementor-6">
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-afc13f4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="afc13f4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-background-overlay"></div>
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85f7842"
+
+            data-id="85f7842" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-7e29fcf elementor-invisible elementor-widget elementor-widget-heading"
+
+                data-id="7e29fcf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;}"
+
+                data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                  <h2 class="elementor-heading-title elementor-size-default">This
+                    Is </h2>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-92f909e wpr-advanced-text-style-animated wpr-fancy-text-typing wpr-animated-text-infinite-yes elementor-invisible elementor-widget elementor-widget-wpr-advanced-text"
+
+                data-id="92f909e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;,&quot;_animation_delay&quot;:100,&quot;anim_loop&quot;:&quot;yes&quot;}"
+
+                data-widget_type="wpr-advanced-text.default">
+                <div class="elementor-widget-container">
+                  <h1 class="wpr-advanced-text"> <span class="wpr-advanced-text-preffix">We
+                      are Creating the<br>
+                    </span> <span class="wpr-anim-text wpr-anim-text-type-typing wpr-anim-text-letters"
+
+                      data-anim-duration="200,2000" data-anim-loop="yes"> <span
+
+                        class="wpr-anim-text-inner"> <b>Best Memories</b> <b>Amazing
+                          Experience</b> </span> <span class="wpr-anim-text-cursor">|</span>
+                    </span> </h1>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-c79a087 elementor-invisible elementor-widget elementor-widget-text-editor"
+
+                data-id="c79a087" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;,&quot;_animation_delay&quot;:200}"
+
+                data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                  <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+                  Chapter too parties its letters nor. Cheerful but whatever
+                  ladyship disposed yet judgment. Lasted answer oppose to <br>
+                  ye months no esteem. Branched is on an ecstatic directly it.
+                  Put off continue you denoting returned juvenile. </div>
+              </div>
+              <div class="elementor-element elementor-element-c3dc393 wpr-button-icon-style-inline wpr-button-icon-position-right elementor-invisible elementor-widget elementor-widget-wpr-button"
+
+                data-id="c3dc393" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;,&quot;_animation_delay&quot;:300}"
+
+                data-widget_type="wpr-button.default">
+                <div class="elementor-widget-container">
+                  <div class="wpr-button-wrap elementor-clearfix"> <a class="wpr-button wpr-button-effect wpr-button-none"
+
+                      data-text="Go" href="#link"> <span class="wpr-button-content">
+                        <span class="wpr-button-text">View Listing</span> </span>
+                    </a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-b21b819 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="b21b819" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-491468b"
+
+            data-id="491468b" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-0bc40c8 elementor-widget elementor-widget-heading"
+
+                data-id="0bc40c8" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                  <h2 class="elementor-heading-title elementor-size-default">Popular
+                    Listings</h2>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-eb1c605 elementor-widget elementor-widget-text-editor"
+
+                data-id="eb1c605" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                  <p>Most Popular Watchlist. <strong><span style="color: #000000;">View
+                        All 2,934 Listings</span></strong></p>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-1c81176 wpr-grid-columns--laptop2 wpr-grid-columns-3 wpr-grid-columns--tablet2 wpr-grid-columns--mobile1 wpr-grid-pagination-center wpr-item-styles-inner elementor-widget elementor-widget-wpr-grid"
+
+                data-id="1c81176" data-element_type="widget" data-widget_type="wpr-grid.default">
+                <div class="elementor-widget-container">
+                  <ul class="wpr-grid-filters elementor-clearfix wpr-grid-filters-sep-right">
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter="*" class="wpr-active-filter "><i class=" wpr-grid-filters-icon-left"></i>All
+                        Posts</span><em class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-apartment"><i class=" wpr-grid-filters-icon-left"></i>Apartment</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-house"><i class=" wpr-grid-filters-icon-left"></i>House</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-office"><i class=" wpr-grid-filters-icon-left"></i>Office</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                  </ul>
+                  <section class="wpr-grid elementor-clearfix" data-settings="{&quot;layout&quot;:&quot;masonry&quot;,&quot;stick_last_element_to_bottom&quot;:&quot;no&quot;,&quot;columns_desktop&quot;:3,&quot;gutter_hr&quot;:30,&quot;gutter_hr_mobile&quot;:30,&quot;gutter_hr_mobile_extra&quot;:30,&quot;gutter_hr_tablet&quot;:30,&quot;gutter_hr_tablet_extra&quot;:30,&quot;gutter_hr_laptop&quot;:30,&quot;gutter_hr_widescreen&quot;:30,&quot;gutter_vr&quot;:30,&quot;gutter_vr_mobile&quot;:30,&quot;gutter_vr_mobile_extra&quot;:30,&quot;gutter_vr_tablet&quot;:30,&quot;gutter_vr_tablet_extra&quot;:30,&quot;gutter_vr_laptop&quot;:30,&quot;gutter_vr_widescreen&quot;:30,&quot;animation&quot;:&quot;default&quot;,&quot;animation_duration&quot;:0.3,&quot;animation_delay&quot;:0.1,&quot;deeplinking&quot;:&quot;no&quot;,&quot;filters_linkable&quot;:&quot;&quot;,&quot;filters_default_filter&quot;:&quot;&quot;,&quot;filters_count&quot;:&quot;no&quot;,&quot;filters_hide_empty&quot;:&quot;no&quot;,&quot;filters_animation&quot;:&quot;default&quot;,&quot;filters_animation_duration&quot;:0.3,&quot;filters_animation_delay&quot;:0.1,&quot;pagination_type&quot;:&quot;load-more&quot;,&quot;pagination_max_pages&quot;:1,&quot;lightbox&quot;:{&quot;selector&quot;:&quot;.wpr-grid-image-wrap&quot;,&quot;iframeMaxWidth&quot;:&quot;60%&quot;,&quot;hash&quot;:false,&quot;autoplay&quot;:&quot;true&quot;,&quot;pause&quot;:5000,&quot;progressBar&quot;:&quot;true&quot;,&quot;counter&quot;:&quot;true&quot;,&quot;controls&quot;:&quot;true&quot;,&quot;getCaptionFromTitleOrAlt&quot;:&quot;true&quot;,&quot;thumbnail&quot;:&quot;true&quot;,&quot;showThumbByDefault&quot;:&quot;true&quot;,&quot;share&quot;:&quot;true&quot;,&quot;zoom&quot;:&quot;true&quot;,&quot;fullScreen&quot;:&quot;true&quot;,&quot;download&quot;:&quot;true&quot;}}">
+                    <article class="wpr-grid-item elementor-clearfix post-122 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-heating wpr_property_type-apartment">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-6.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-6.jpg"
+
+                              alt="Rocco Arquitetos" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/rocco-arquitetos/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>300.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/rocco-arquitetos/index.html">Rocco
+                                Arquitetos</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>44 E. West
+                                  Street Ashland, OH 44805</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>3</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>45</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-121 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-house">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-5.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-5.jpg"
+
+                              alt="Marsino Arquitectura" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/marsino-arquitectura/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Optional Price
+                                  Note</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>1500.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/marsino-arquitectura/index.html">Marsino
+                                Arquitectura</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>131 Iroquois
+                                  Street Southgate, MI 48195</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>4</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>50</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-120 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-office">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-4.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-4.jpg"
+
+                              alt="William Samuels Architects" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/william-samuels-architects/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>3500.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/william-samuels-architects/index.html">William
+                                Samuels Architects</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>8779 Windsor
+                                  St. Fuquay Varina, NC 27526</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>5</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>67</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-119 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-apartment">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-3.jpg"
+
+                            data-img-on-hover="" data-src-secondary=""><img decoding="async"
+
+                              data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-3.jpg"
+
+                              alt="Weekend House In Kyotango" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/weekend-house-in-kyotango/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Optional Price
+                                  Note</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>45000.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/weekend-house-in-kyotango/index.html">Weekend
+                                House In Kyotango</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>611 Penn Street
+                                  Long Branch, NJ 07740</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>6</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>150</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-118 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-house">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"
+
+                            data-img-on-hover="" data-src-secondary=""><img decoding="async"
+
+                              data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"
+
+                              alt="Bricolo Falsarella" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/bricolo-falsarella/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>140000.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/bricolo-falsarella/index.html">Bricolo
+                                Falsarella</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>7075 Princess
+                                  Street Linden, NJ 07036</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>76</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-117 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-office">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"
+
+                            data-img-on-hover="" data-src-secondary=""><img decoding="async"
+
+                              data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"
+
+                              alt="Martelaar House" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/martelaar-house/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>650.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/martelaar-house/index.html">Martelaar
+                                House</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>809 North Peg
+                                  Shop Dr. Ladson, SC 29456</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>87</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-0e29747 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="0e29747" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42680d7"
+
+            data-id="42680d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-10e1905 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="10e1905" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f8dc9ab elementor-invisible"
+
+                    data-id="f8dc9ab" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-89daee3 elementor-widget elementor-widget-heading"
+
+                        data-id="89daee3" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Exclusive
+                            Access to Best Real Estate Opportunities</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-bf6ee05 elementor-widget elementor-widget-text-editor"
+
+                        data-id="bf6ee05" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                          <p>Each well-appointed bedroom is designed with your
+                            comfort in mind, offering a tranquil retreat after a
+                            busy day. The apartment also features [number of
+                            bathrooms] bathrooms, each showcasing contemporary
+                            fixtures and finishes.&nbsp;<span style="background-color: transparent;">Relax
+                              and unwind on your private balcony, where you can
+                              enjoy.</span></p>
+                          <p>Conveniently located near [major landmarks,
+                            transportation hubs, shopping centers], this
+                            apartment offers the perfect blend of urban
+                            convenience.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0797742 elementor-invisible"
+
+                    data-id="0797742" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-9898adf elementor-widget elementor-widget-image"
+
+                        data-id="9898adf" data-element_type="widget" data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                          <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>
+                          <img fetchpriority="high" decoding="async" src="wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"
+
+                            class="attachment-large size-large wp-image-123" alt=""
+
+                            srcset="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1.jpg 900w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1-300x200.jpg 300w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1-768x512.jpg 768w"
+
+                            sizes="(max-width: 900px) 100vw, 900px" width="900"
+
+                            height="600"> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-2fb4273 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="2fb4273" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2103079"
+
+            data-id="2103079" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-6f30f15 elementor-widget elementor-widget-heading"
+
+                data-id="6f30f15" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                  <h2 class="elementor-heading-title elementor-size-default">Listing
+                    Category</h2>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-3af5de7 elementor-widget elementor-widget-text-editor"
+
+                data-id="3af5de7" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                  <p>Type of Our Property. <strong><span style="color: #000000;">View
+                        All 2,934 Listings</span></strong></p>
+                </div>
+              </div>
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-aa11bf0 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="aa11bf0" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dd48217"
+
+                    data-id="dd48217" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-3d99bd5 elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box"
+
+                        data-id="3d99bd5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}"
+
+                        data-widget_type="image-box.default">
+                        <div class="elementor-widget-container">
+                          <style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style>
+                          <div class="elementor-image-box-wrapper">
+                            <figure class="elementor-image-box-img"><img decoding="async"
+
+                                src="wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"
+
+                                class="attachment-full size-full wp-image-123" alt=""
+
+                                srcset="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1.jpg 900w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1-300x200.jpg 300w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-1-768x512.jpg 768w"
+
+                                sizes="(max-width: 900px) 100vw, 900px" width="900"
+
+                                height="600"></figure>
+                            <div class="elementor-image-box-content">
+                              <h3 class="elementor-image-box-title">Houses for
+                                Sale</h3>
+                              <p class="elementor-image-box-description">Lorem
+                                ipsum dolor sit amet, consectetur adipiscing
+                                elit. Ut elit tellus, luctus nec ullamcorper
+                                mattis, pulvinar dapibus leo.</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b0dfdb7"
+
+                    data-id="b0dfdb7" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-f20c513 elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box"
+
+                        data-id="f20c513" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;,&quot;_animation_delay&quot;:100}"
+
+                        data-widget_type="image-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-image-box-wrapper">
+                            <figure class="elementor-image-box-img"><img decoding="async"
+
+                                src="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"
+
+                                class="attachment-full size-full wp-image-124" alt=""
+
+                                srcset="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-2.jpg 900w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-2-300x200.jpg 300w, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-2-768x512.jpg 768w"
+
+                                sizes="(max-width: 900px) 100vw, 900px" width="900"
+
+                                height="600"></figure>
+                            <div class="elementor-image-box-content">
+                              <h3 class="elementor-image-box-title">Apartments
+                                for Sale</h3>
+                              <p class="elementor-image-box-description">Lorem
+                                ipsum dolor sit amet, consectetur adipiscing
+                                elit. Ut elit tellus, luctus nec ullamcorper
+                                mattis, pulvinar dapibus leo.</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-39ec9ff elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="39ec9ff" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df7fce5"
+
+            data-id="df7fce5" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-a3f210f elementor-widget elementor-widget-heading"
+
+                data-id="a3f210f" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                  <h2 class="elementor-heading-title elementor-size-default">Latest
+                    Listing</h2>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-6f2f1a0 elementor-widget elementor-widget-text-editor"
+
+                data-id="6f2f1a0" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                  <p> Most Popular Watchlist. <strong><span style="color: #000000;">View
+                        All 2,934 Listings</span></strong></p>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-9dde2c0 wpr-grid-columns--laptop2 wpr-grid-columns-3 wpr-grid-columns--tablet2 wpr-grid-columns--mobile1 wpr-item-styles-inner elementor-widget elementor-widget-wpr-grid"
+
+                data-id="9dde2c0" data-element_type="widget" data-widget_type="wpr-grid.default">
+                <div class="elementor-widget-container">
+                  <ul class="wpr-grid-filters elementor-clearfix wpr-grid-filters-sep-right">
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter="*" class="wpr-active-filter "><i class=" wpr-grid-filters-icon-left"></i>All
+                        Posts</span><em class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-apartment"><i class=" wpr-grid-filters-icon-left"></i>Apartment</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-house"><i class=" wpr-grid-filters-icon-left"></i>House</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                    <li class=" wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-fade"><span
+
+                        data-filter=".wpr_property_type-office"><i class=" wpr-grid-filters-icon-left"></i>Office</span><em
+
+                        class="wpr-grid-filters-sep"></em></li>
+                  </ul>
+                  <section class="wpr-grid elementor-clearfix" data-settings="{&quot;layout&quot;:&quot;masonry&quot;,&quot;stick_last_element_to_bottom&quot;:&quot;no&quot;,&quot;columns_desktop&quot;:3,&quot;gutter_hr&quot;:30,&quot;gutter_hr_mobile&quot;:30,&quot;gutter_hr_mobile_extra&quot;:30,&quot;gutter_hr_tablet&quot;:30,&quot;gutter_hr_tablet_extra&quot;:30,&quot;gutter_hr_laptop&quot;:30,&quot;gutter_hr_widescreen&quot;:30,&quot;gutter_vr&quot;:30,&quot;gutter_vr_mobile&quot;:30,&quot;gutter_vr_mobile_extra&quot;:30,&quot;gutter_vr_tablet&quot;:30,&quot;gutter_vr_tablet_extra&quot;:30,&quot;gutter_vr_laptop&quot;:30,&quot;gutter_vr_widescreen&quot;:30,&quot;animation&quot;:&quot;default&quot;,&quot;animation_duration&quot;:0.3,&quot;animation_delay&quot;:0.1,&quot;deeplinking&quot;:&quot;no&quot;,&quot;filters_linkable&quot;:&quot;&quot;,&quot;filters_default_filter&quot;:&quot;&quot;,&quot;filters_count&quot;:&quot;no&quot;,&quot;filters_hide_empty&quot;:&quot;no&quot;,&quot;filters_animation&quot;:&quot;default&quot;,&quot;filters_animation_duration&quot;:0.3,&quot;filters_animation_delay&quot;:0.1,&quot;pagination_type&quot;:&quot;load-more&quot;,&quot;pagination_max_pages&quot;:2,&quot;lightbox&quot;:{&quot;selector&quot;:&quot;.wpr-grid-image-wrap&quot;,&quot;iframeMaxWidth&quot;:&quot;60%&quot;,&quot;hash&quot;:false,&quot;autoplay&quot;:&quot;true&quot;,&quot;pause&quot;:5000,&quot;progressBar&quot;:&quot;true&quot;,&quot;counter&quot;:&quot;true&quot;,&quot;controls&quot;:&quot;true&quot;,&quot;getCaptionFromTitleOrAlt&quot;:&quot;true&quot;,&quot;thumbnail&quot;:&quot;true&quot;,&quot;showThumbByDefault&quot;:&quot;true&quot;,&quot;share&quot;:&quot;true&quot;,&quot;zoom&quot;:&quot;true&quot;,&quot;fullScreen&quot;:&quot;true&quot;,&quot;download&quot;:&quot;true&quot;}}">
+                    <article class="wpr-grid-item elementor-clearfix post-122 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-heating wpr_property_type-apartment">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-6.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-1.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-6.jpg"
+
+                              alt="Rocco Arquitetos" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/rocco-arquitetos/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>300.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/rocco-arquitetos/index.html">Rocco
+                                Arquitetos</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>44 E. West
+                                  Street Ashland, OH 44805</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>3</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>45</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-121 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-house">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-5.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-5.jpg"
+
+                              alt="Marsino Arquitectura" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/marsino-arquitectura/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Optional Price
+                                  Note</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>1500.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/marsino-arquitectura/index.html">Marsino
+                                Arquitectura</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>131 Iroquois
+                                  Street Southgate, MI 48195</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>4</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>50</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                    <article class="wpr-grid-item elementor-clearfix post-120 wpr_directory type-wpr_directory status-publish has-post-thumbnail hentry wpr_property_feat-cooling wpr_property_feat-garage wpr_property_feat-garden wpr_property_feat-heating wpr_property_feat-parking wpr_property_feat-swimming-pool wpr_property_type-office">
+                      <div class="wpr-grid-item-inner">
+                        <div class="wpr-grid-media-wrap wpr-effect-size-medium "
+
+                          data-overlay-link="yes">
+                          <div class="wpr-grid-image-wrap" data-src="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Apartment-4.jpg"
+
+                            data-img-on-hover="" data-src-secondary="wp-content/uploads/sites/90/2023/08/Apartment-2.jpg"><img
+
+                              decoding="async" data-no-lazy="1" src="wp-content/uploads/sites/90/2023/08/Apartment-4.jpg"
+
+                              alt="William Samuels Architects" class="wpr-anim-timing-ease-default"></div>
+                          <div class="wpr-grid-media-hover wpr-animation-wrap">
+                            <div class="wpr-grid-media-hover-bg  wpr-overlay-fade-in wpr-anim-size-large wpr-anim-timing-ease-default wpr-anim-transparency"
+
+                              data-url="wpr_directory/william-samuels-architects/index.html"></div>
+                          </div>
+                        </div>
+                        <div class="wpr-grid-item-below-content elementor-clearfix">
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-0226dd0 wpr-grid-item-display-inline wpr-grid-item-align-right wpr-grid-cf-style-3">
+                            <div class="inner-block"><span><span>Available Now</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-3fd71c9 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-text-left">$</span><span>3500.00</span></span></div>
+                          </div>
+                          <h2 class="wpr-grid-item-title elementor-repeater-item-c954166 wpr-grid-item-display-block wpr-grid-item-align-left wpr-pointer-none wpr-pointer-line-fx wpr-pointer-fx-slide">
+                            <div class="inner-block"><a target="_self" href="wpr_directory/william-samuels-architects/index.html">William
+                                Samuels Architects</a></div>
+                          </h2>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-68b752a wpr-grid-item-display-block wpr-grid-item-align-left wpr-grid-cf-style-1">
+                            <div class="inner-block"><span><span>8779 Windsor
+                                  St. Fuquay Varina, NC 27526</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c3cb183 wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-bed"></i></span><span>5</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-c62dece wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-shower"></i></span><span>1</span></span></div>
+                          </div>
+                          <div class="wpr-grid-item-custom-field elementor-repeater-item-87af8ef wpr-grid-item-display-inline wpr-grid-item-align-left wpr-grid-cf-style-2">
+                            <div class="inner-block"><span><span class="wpr-grid-extra-icon-left"><i
+
+                                    aria-hidden="true" class="fas fa-ruler-horizontal"></i></span><span>67</span></span></div>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-f6ccfe0 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="f6ccfe0" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b6a32ae"
+
+            data-id="b6a32ae" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-6a2f317 elementor-widget elementor-widget-heading"
+
+                data-id="6a2f317" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                  <h2 class="elementor-heading-title elementor-size-default">What's
+                    Happening in </h2>
+                </div>
+              </div>
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-c4f835c elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="c4f835c" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ba0b83f"
+
+                    data-id="ba0b83f" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-788e7c4 elementor-invisible elementor-widget elementor-widget-counter"
+
+                        data-id="788e7c4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}"
+
+                        data-widget_type="counter.default">
+                        <div class="elementor-widget-container">
+                          <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-counter .elementor-counter-number-wrapper{display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>
+                          <div class="elementor-counter">
+                            <div class="elementor-counter-number-wrapper"> <span
+
+class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number"
+
+                                data-duration="2000" data-to-value="500" data-from-value="0"
+
+                                data-delimiter=",">0</span> <span class="elementor-counter-number-suffix">M+</span>
+                            </div>
+                            <div class="elementor-counter-title">In Property
+                              Sales</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a95761a"
+
+                    data-id="a95761a" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-adc260c elementor-invisible elementor-widget elementor-widget-counter"
+
+                        data-id="adc260c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:100}"
+
+                        data-widget_type="counter.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-counter">
+                            <div class="elementor-counter-number-wrapper"> <span
+
+class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number"
+
+                                data-duration="2000" data-to-value="48525" data-from-value="0"
+
+                                data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span>
+                            </div>
+                            <div class="elementor-counter-title">Homes for Sale</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9f49323"
+
+                    data-id="9f49323" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-ceda64e elementor-invisible elementor-widget elementor-widget-counter"
+
+                        data-id="ceda64e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:200}"
+
+                        data-widget_type="counter.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-counter">
+                            <div class="elementor-counter-number-wrapper"> <span
+
+class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number"
+
+                                data-duration="2000" data-to-value="15789" data-from-value="0"
+
+                                data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span>
+                            </div>
+                            <div class="elementor-counter-title">Recently Sold</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-826ff51"
+
+                    data-id="826ff51" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-f5d33ee elementor-invisible elementor-widget elementor-widget-counter"
+
+                        data-id="f5d33ee" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:300}"
+
+                        data-widget_type="counter.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-counter">
+                            <div class="elementor-counter-number-wrapper"> <span
+
+class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number"
+
+                                data-duration="2000" data-to-value="5987" data-from-value="0"
+
+                                data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span>
+                            </div>
+                            <div class="elementor-counter-title">Home for Rent</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-a094ca8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="a094ca8" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b71bca0"
+
+            data-id="b71bca0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-c85277b elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="c85277b" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6a7fd02"
+
+                    data-id="6a7fd02" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-25949fe wpr-testimonial-slider-columns-1 wpr-testimonial-slider-columns--tablet1 wpr-testimonial-slider-columns--laptop3 wpr-testimonial-slider-columns--mobile1 wpr-testimonial-meta-position-bottom wpr-testimonial-meta-align-center wpr-testimonial-image-position-center wpr-testimonial-nav-position-custom elementor-invisible elementor-widget elementor-widget-wpr-testimonial"
+
+                        data-id="25949fe" data-element_type="widget" data-settings="{&quot;testimonial_amount&quot;:&quot;1&quot;,&quot;testimonial_amount_tablet&quot;:&quot;1&quot;,&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;testimonial_amount_laptop&quot;:3,&quot;testimonial_amount_mobile&quot;:1,&quot;testimonial_slides_to_scroll&quot;:2,&quot;testimonial_autoplay&quot;:&quot;yes&quot;,&quot;testimonial_autoplay_duration&quot;:4,&quot;testimonial_loop&quot;:&quot;yes&quot;}"
+
+                        data-widget_type="wpr-testimonial.default">
+                        <div class="elementor-widget-container">
+                          <div class="wpr-testimonial-carousel-wrap">
+                            <div class="wpr-testimonial-carousel" dir="ltr" data-slick="{&quot;rtl&quot;:false,&quot;infinite&quot;:true,&quot;speed&quot;:700,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:4000,&quot;pauseOnHover&quot;:&quot;yes&quot;,&quot;prevArrow&quot;:&quot;#wpr-testimonial-prev-25949fe&quot;,&quot;nextArrow&quot;:&quot;#wpr-testimonial-next-25949fe&quot;,&quot;sliderSlidesToScroll&quot;:2}"
+
+                              data-slide-effect="slide">
+                              <div class="wpr-testimonial-item elementor-repeater-item-d176f6b elementor-clearfix">
+                                <div class="wpr-testimonial-meta elementor-clearfix">
+                                  <div class="wpr-testimonial-meta-inner">
+                                    <div class="wpr-testimonial-meta-content-wrap">
+                                      <div class="wpr-testimonial-name">John Doe</div>
+                                      <div class="wpr-testimonial-job">Sony CEO</div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="wpr-testimonial-content-wrap">
+                                  <div class="wpr-testimonial-content-inner">
+                                    <div class="wpr-testimonial-content">
+                                      <p></p>
+                                      <p>Lorem ipsum dolor sit amet, consectetur
+                                        adipiscing elit. Curabitur laoreet
+                                        cursus volutpat. Aliquam sit amet ligula
+                                        et justo tincidunt laoreet non vitae
+                                        lorem. Aliquam porttitor tellus enim,
+                                        eget commodo augue porta ut. Maecenas
+                                        lobortis ligula.</p>
+                                      <p></p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="wpr-testimonial-item elementor-repeater-item-1a49799 elementor-clearfix">
+                                <div class="wpr-testimonial-meta elementor-clearfix">
+                                  <div class="wpr-testimonial-meta-inner">
+                                    <div class="wpr-testimonial-meta-content-wrap">
+                                      <div class="wpr-testimonial-name">John Doe</div>
+                                      <div class="wpr-testimonial-job">Sony CEO</div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="wpr-testimonial-content-wrap">
+                                  <div class="wpr-testimonial-content-inner">
+                                    <div class="wpr-testimonial-content">
+                                      <p></p>
+                                      <p>Lorem ipsum dolor sit amet, consectetur
+                                        adipiscing elit. Curabitur laoreet
+                                        cursus volutpat. Aliquam sit amet ligula
+                                        et justo tincidunt laoreet non vitae
+                                        lorem. Aliquam porttitor tellus enim,
+                                        eget commodo augue porta ut. Maecenas
+                                        lobortis ligula.</p>
+                                      <p></p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="wpr-testimonial-controls">
+                              <div class="wpr-testimonial-dots"></div>
+                            </div>
+                            <div class="wpr-testimonial-arrow-container">
+                              <div class="wpr-testimonial-prev-arrow wpr-testimonial-arrow"
+
+                                id="wpr-testimonial-prev-25949fe">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+
+                                  xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+                                  viewBox="0 0 303.3 512" style="enable-background:new 0 0 303.3 512;"
+
+                                  xml:space="preserve"><g><polygon class="st0" points="94.7,256 303.3,464.6 256,512 47.3,303.4 0,256 47.3,208.6 256,0 303.3,47.4 "></polygon></g></svg>
+                              </div>
+                              <div class="wpr-testimonial-next-arrow wpr-testimonial-arrow"
+
+                                id="wpr-testimonial-next-25949fe">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+
+                                  xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+                                  viewBox="0 0 303.3 512" style="enable-background:new 0 0 303.3 512;"
+
+                                  xml:space="preserve"><g><polygon class="st0" points="94.7,256 303.3,464.6 256,512 47.3,303.4 0,256 47.3,208.6 256,0 303.3,47.4 "></polygon></g></svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-f7def96 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="f7def96" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4986099"
+
+                    data-id="4986099" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-d842655 wpr-promo-box-style-cover elementor-invisible elementor-widget elementor-widget-wpr-promo-box"
+
+                        data-id="d842655" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;,&quot;_animation_delay&quot;:100}"
+
+                        data-widget_type="wpr-promo-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="wpr-promo-box wpr-animation-wrap">
+                            <div class="wpr-promo-box-image">
+                              <div class="wpr-promo-box-bg-image wpr-bg-anim-zoom-in wpr-anim-timing-ease-default"
+
+                                style="background-image:url(wp-content/uploads/sites/90/2023/08/pic-2.jpg);"></div>
+                              <div class="wpr-promo-box-bg-overlay wpr-border-anim-none"></div>
+                            </div>
+                            <div class="wpr-promo-box-content">
+                              <div class="wpr-promo-box-icon"> </div>
+                              <h3 class="wpr-promo-box-title"><span>Consultation</span></h3>
+                              <div class="wpr-promo-box-description">
+                                <p>We are ready to help, consult your property
+                                  options with us.</p>
+                              </div>
+                              <div class="wpr-promo-box-btn-wrap"> <a class="wpr-promo-box-btn"
+
+                                  href="#"> <span class="wpr-promo-box-btn-text">Start
+                                    Chat</span> <span class="wpr-promo-box-btn-icon">
+                                    <i class="fas fa-arrow-right"></i> </span>
+                                </a> </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e5c0f7b"
+
+                    data-id="e5c0f7b" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-f3a8ade wpr-promo-box-style-cover elementor-invisible elementor-widget elementor-widget-wpr-promo-box"
+
+                        data-id="f3a8ade" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;,&quot;_animation_delay&quot;:200}"
+
+                        data-widget_type="wpr-promo-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="wpr-promo-box wpr-animation-wrap">
+                            <div class="wpr-promo-box-image">
+                              <div class="wpr-promo-box-bg-image wpr-bg-anim-zoom-in wpr-anim-timing-ease-default"
+
+                                style="background-image:url(wp-content/uploads/sites/90/2023/08/Pic-30.jpg);"></div>
+                              <div class="wpr-promo-box-bg-overlay wpr-border-anim-none"></div>
+                            </div>
+                            <div class="wpr-promo-box-content">
+                              <div class="wpr-promo-box-icon"> </div>
+                              <h3 class="wpr-promo-box-title"><span>Consultation</span></h3>
+                              <div class="wpr-promo-box-description">
+                                <p>Find the best price for<br>
+                                  you, and calculate<br>
+                                  the property now.</p>
+                              </div>
+                              <div class="wpr-promo-box-btn-wrap"> <a class="wpr-promo-box-btn"
+
+                                  href="#"> <span class="wpr-promo-box-btn-text">Calculate</span>
+                                  <span class="wpr-promo-box-btn-icon"> <i class="fas fa-arrow-right"></i>
+                                  </span> </a> </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div data-elementor-type="wp-post" data-elementor-id="328" class="elementor elementor-328">
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-6ac245a elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="6ac245a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0300412"
+
+            data-id="0300412" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-6a6d420 elementor-widget elementor-widget-spacer"
+
+                data-id="6a6d420" data-element_type="widget" data-widget_type="spacer.default">
+                <div class="elementor-widget-container">
+                  <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>
+                  <div class="elementor-spacer">
+                    <div class="elementor-spacer-inner"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-990feb6 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="990feb6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e7b0667"
+
+            data-id="e7b0667" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <section class="elementor-section elementor-inner-section elementor-element elementor-element-6c883c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+                data-id="6c883c2" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                  <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-b947386"
+
+                    data-id="b947386" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-cc00c23 wpr-logo-position-center elementor-widget elementor-widget-wpr-logo"
+
+                        data-id="cc00c23" data-element_type="widget" data-widget_type="wpr-logo.default">
+                        <div class="elementor-widget-container">
+                          <div class="wpr-logo elementor-clearfix"> <picture class="wpr-logo-image">
+                              <source srcset="https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Logo.png 1x, https://demosites.royal-elementor-addons.com/realestate-v3/wp-content/uploads/sites/90/2023/08/Logo-Retina.png 2x">
+                              <img src="wp-content/uploads/sites/90/2023/08/Logo.png"
+
+                                alt=""> <a class="wpr-logo-url" rel="home" href="index.html"></a>
+                            </picture> <a class="wpr-logo-url" rel="home" href="index.html"></a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-41d2a26 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
+
+                        data-id="41d2a26" data-element_type="widget" data-widget_type="social-icons.default">
+                        <div class="elementor-widget-container">
+                          <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em));height:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#69727d;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#69727d}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-threads{background-color:#000}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-x-twitter{background-color:#000}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>
+                          <div class="elementor-social-icons-wrapper elementor-grid">
+                            <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-d0f4c82"
+
+                                target="_blank"> <span class="elementor-screen-only">Facebook-f</span>
+                                <i class="fab fa-facebook-f"></i> </a> </span>
+                            <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-457744d"
+
+                                target="_blank"> <span class="elementor-screen-only">Twitter</span>
+                                <i class="fab fa-twitter"></i> </a> </span> <span
+
+                              class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-f9f5884"
+
+                                target="_blank"> <span class="elementor-screen-only">Instagram</span>
+                                <i class="fab fa-instagram"></i> </a> </span>
+                            <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-6e87edf"
+
+                                target="_blank"> <span class="elementor-screen-only">Youtube</span>
+                                <i class="fab fa-youtube"></i> </a> </span> <span
+
+                              class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-1a0891b"
+
+                                target="_blank"> <span class="elementor-screen-only">Linkedin-in</span>
+                                <i class="fab fa-linkedin-in"></i> </a> </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-8ac4940"
+
+                    data-id="8ac4940" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-befd22e elementor-widget elementor-widget-heading"
+
+                        data-id="befd22e" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Product</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-67c27ea elementor-widget elementor-widget-heading"
+
+                        data-id="67c27ea" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Sell</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-b5456ed elementor-widget elementor-widget-heading"
+
+                        data-id="b5456ed" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Buy</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-bbca1cd elementor-widget elementor-widget-heading"
+
+                        data-id="bbca1cd" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Advertise</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-fe1955e elementor-widget elementor-widget-heading"
+
+                        data-id="fe1955e" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Our
+                            Agent</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f919bd7"
+
+                    data-id="f919bd7" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-9d93e33 elementor-widget elementor-widget-heading"
+
+                        data-id="9d93e33" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Company</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-db5c857 elementor-widget elementor-widget-heading"
+
+                        data-id="db5c857" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">About</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-4277320 elementor-widget elementor-widget-heading"
+
+                        data-id="4277320" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Contact
+                            Us</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-16227f1"
+
+                    data-id="16227f1" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-cd14d53 elementor-widget elementor-widget-heading"
+
+                        data-id="cd14d53" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Support</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-af2c0ae elementor-widget elementor-widget-heading"
+
+                        data-id="af2c0ae" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Getting
+                            Started</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-a843eb9 elementor-widget elementor-widget-heading"
+
+                        data-id="a843eb9" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Help
+                            Center </h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-e04d2fc elementor-widget elementor-widget-heading"
+
+                        data-id="e04d2fc" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Server
+                            Status</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-b018816 elementor-widget elementor-widget-heading"
+
+                        data-id="b018816" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Report
+                            a Bug</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-f37cd88 elementor-widget elementor-widget-heading"
+
+                        data-id="f37cd88" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Chat
+                            Support</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-fee4697"
+
+                    data-id="fee4697" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-c240939 elementor-widget elementor-widget-heading"
+
+                        data-id="c240939" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-default">Contact
+                            Us</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-484422e elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+
+                        data-id="484422e" data-element_type="widget" data-widget_type="icon-list.default">
+                        <div class="elementor-widget-container">
+                          <link rel="stylesheet" href="wp-content/uploads/sites/90/elementor/css/custom-widget-icon-list.min811c.css?ver=1710926827">
+                          <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon">
+                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
+                              </span> <span class="elementor-icon-list-text">+1-(206)
+                                342-8631</span> </li>
+                            <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon">
+                                <i aria-hidden="true" class="fas fa-envelope"></i>
+                              </span> <span class="elementor-icon-list-text">Mirza
+                                Travel and toursoffice@info.com</span> </li>
+                            <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon">
+                                <i aria-hidden="true" class="fas fa-map-marker-alt"></i>
+                              </span> <span class="elementor-icon-list-text">44
+                                E. West Street Ashland, OH 44805</span> </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <div class="elementor-element elementor-element-28b24b4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+
+                data-id="28b24b4" data-element_type="widget" data-widget_type="divider.default">
+                <div class="elementor-widget-container">
+                  <style>/*! elementor - v3.20.0 - 13-03-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>
+                  <div class="elementor-divider"> <span class="elementor-divider-separator">
+                    </span> </div>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-29951e9 elementor-widget elementor-widget-text-editor"
+
+                data-id="29951e9" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                  <p>© 2024 Created with<span style="color: #808080;"> <a style="color: #808080;"
+
+                        href="https://royal-elementor-addons.com/">Royal
+                        Elementor Addons</a></span></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-a0e3c22 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="a0e3c22" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-no">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8d383f1"
+
+            data-id="8d383f1" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-140a427 wpr-stt-btn-align-fixed wpr-stt-btn-align-fixed-right elementor-widget elementor-widget-wpr-back-to-top"
+
+                data-id="140a427" data-element_type="widget" data-widget_type="wpr-back-to-top.default">
+                <div class="elementor-widget-container">
+                  <div class="wpr-stt-wrapper">
+                    <div class="wpr-stt-btn" data-settings="{&quot;animation&quot;:&quot;fade&quot;,&quot;animationOffset&quot;:&quot;0&quot;,&quot;animationDuration&quot;:&quot;200&quot;,&quot;fixed&quot;:&quot;fixed&quot;,&quot;scrolAnim&quot;:&quot;800&quot;}"><span
+
+                        class="wpr-stt-icon"><i class="fas fa-chevron-up"></i></span></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="elementor-section elementor-top-section elementor-element elementor-element-7b01a97 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no"
+
+        data-id="7b01a97" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-no">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-01c2c15"
+
+            data-id="01c2c15" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+              <div class="elementor-element elementor-element-c0e62b7 wpr-pc-btn-align-fixed wpr-pc-btn-align-fixed-right elementor-widget elementor-widget-wpr-phone-call"
+
+                data-id="c0e62b7" data-element_type="widget" data-widget_type="wpr-phone-call.default">
+                <div class="elementor-widget-container">
+                  <div class="wpr-pc-wrapper"><a href="tel:123456789" class="wpr-pc-btn">
+                      <div class="wpr-pc-content"><span class="wpr-pc-btn-icon"><i
+
+                            class="fas fa-phone"></i></span></div>
+                    </a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <link rel="stylesheet" id="wpr-link-animations-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-link-animations.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-478-css" href="wp-content/uploads/sites/90/elementor/css/post-478dfd8.css?ver=1710926826"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-loading-animations-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/loading-animations.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-button-animations-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/button-animations.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-animations-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-animations.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="wpr-lightgallery-css-css" href="wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.minfdb9.css?ver=1.3.9812"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="e-animations-css" href="wp-content/plugins/elementor/assets/lib/animations/animations.min78fb.css?ver=3.20.1"
+
+      type="text/css" media="all">
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles7c45.js?ver=3.0.6"
+
+id="wpr-particles-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.minf184.js?ver=1.12.7"
+
+id="wpr-jarallax-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min5152.js?ver=1.0"
+
+id="wpr-parallax-hover-js"></script>
+    <script type="text/javascript" data-cfasync="false" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/isotope/isotope.min6173.js?ver=3.0.8"
+
+id="wpr-isotope-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/slick/slick.minc245.js?ver=1.8.1"
+
+id="wpr-slick-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/lib/lightgallery/lightgallery.mind203.js?ver=1.6.12"
+
+id="wpr-lightgallery-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1"
+
+id="jquery-numerator-js"></script>
+    <script type="text/javascript" src="wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4"
+
+id="imagesloaded-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.min78fb.js?ver=3.20.1"
+
+id="elementor-webpack-runtime-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.min78fb.js?ver=3.20.1"
+
+id="elementor-frontend-modules-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
+
+id="elementor-waypoints-js"></script>
+    <script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2"
+
+id="jquery-ui-core-js"></script>
+    <script id="elementor-frontend-js-before" type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.1","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true},"urls":{"assets":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6,"title":"Real%20Estate","excerpt":"","featuredImage":false}};
+</script> <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend.min78fb.js?ver=3.20.1"
+
+id="elementor-frontend-js"></script>
+    <script type="text/javascript" id="wpr-addons-js-js-extra">
+/* <![CDATA[ */
+var WprConfig = {"ajaxurl":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/wp-admin\/admin-ajax.php","resturl":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/wp-json\/wpraddons\/v1","nonce":"fdac7c9af7","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"7","comparePageURL":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/about\/","wishlistPageID":"7","wishlistPageURL":"https:\/\/demosites.royal-elementor-addons.com\/realestate-v3\/about\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error"};
+/* ]]> */
+</script> <script type="text/javascript" data-cfasync="false" src="wp-content/plugins/royal-elementor-addons/assets/js/frontend.minfdb9.js?ver=1.3.9812"
+
+id="wpr-addons-js-js"></script>
+    <script type="text/javascript" src="wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.minfdb9.js?ver=1.3.9812"
+
+id="wpr-modal-popups-js-js"></script>
+  </body>
+  <!-- Mirrored from demosites.royal-elementor-addons.com/realestate-v3/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Aug 2024 12:59:16 GMT -->
+</html>
